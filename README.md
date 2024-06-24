@@ -8,6 +8,8 @@ jp: https://iptv.icehoney.me/jp.m3u
 
 [YueChan/Live](https://github.com/YueChan/Live)
 
+[Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV)
+
 [fanmingming/live](https://github.com/fanmingming/live)
 
 [luongz/iptv-jp](https://github.com/luongz/iptv-jp)
